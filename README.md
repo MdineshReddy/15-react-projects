@@ -1,4 +1,4 @@
-# 23-react-projects
+# 22-react-projects
 
 ## useState
 
@@ -16,33 +16,32 @@
 ## Forms
 
 8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
+9. Grocery Bud
 
 ## useRef
 
-11. Navbar
+10. Navbar
 
 ## useContext
 
-12. Modal And Sidebar
-13. Stripe Submenus
+11. Modal And Sidebar
+12. Stripe Submenus
 
 ## useReducer and useContext
 
-14. Cart
+13. Cart
 
 ## React Router and useCallback
 
-15. Cocktails
+14. Cocktails
 
 ## Advanced Projects 
 
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
+15. Markdown Preview
+16. Random Person
+17. Pagination
+18. Stock Photos
+19. Dark Mode
+20. Movie DB
+21. Hacker News
+22. Quiz
